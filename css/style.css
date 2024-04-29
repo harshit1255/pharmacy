@@ -1083,6 +1083,6 @@ textarea#comment.update_mail::placeholder {
 @media only screen and (max-width: 768px) {
     .banner_taital
     {
-        font-size: 69px;
+        font-size: 60px;
     }
 }
